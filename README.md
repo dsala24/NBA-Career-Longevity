@@ -30,7 +30,5 @@ This project underscores the potential of machine learning in the NBA for predic
 ## Future Work
 Future work may involve expanding the dataset with more historical statistics, including factors like injury history and player leadership qualities. Additionally, developing a user-friendly web tool for career longevity prediction could enhance accessibility for NBA teams and scouts.
 
-## References
-•	Smith, J. (2021). "Predictive Modeling for NBA Rookies Career Longevity." NBA Analytics Journal, 42(3), 345-362.
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 This example provides a comprehensive overview of a machine learning project aimed at predicting the career longevity of NBA rookies. It covers essential aspects, from data collection and preprocessing to model selection and evaluation, and offers insights into future enhancements and potential real-world applications in the world of professional basketball.
